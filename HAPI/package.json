@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "config": "^2.0.1",
+    "good": "^8.1.1",
+    "good-console": "^7.1.0",
+    "good-squeeze": "^5.1.0",
+    "hapi": "^17.5.4",
+    "joi": "^13.6.0",
+    "mysql": "^2.16.0",
+    "nodemon": "^1.18.4"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  }
+}
